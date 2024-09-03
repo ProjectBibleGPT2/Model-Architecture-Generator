@@ -4,6 +4,10 @@ This repo is designed to generate the architecture of a given model (randomizing
 ### Use
 
 ```
+python -m pip install -r requirements.txt
+```
+
+```
 python -m randomnize_params -in model_in_path -out model_out_path
 ```
 
